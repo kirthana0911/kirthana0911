@@ -1,118 +1,115 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=R.S.%20Kirthana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Engineer%20%7C%20VLSI%20%26%20Embedded%20Systems%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=R.S.%20KIRTHANA&fontSize=52&fontColor=70A5FD&animation=twinkling&fontAlignY=35&desc=Electronics%20%26%20Communication%20Engineer%20%7C%20VLSI%20%7C%20Embedded%20Systems%20%7C%20IoT&descAlignY=60&descSize=15&descColor=c9d1d9" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Electronics+%26+Communication+Engineer+%F0%9F%94%8C;VLSI+%26+Digital+System+Design+Explorer+%F0%9F%94%AC;Embedded+Systems+%7C+IoT+Developer+%F0%9F%94%A7;Cloud+%26+AWS+Enthusiast+%E2%98%81%EF%B8%8F;Building+Circuits+%26+Innovations+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=800&lines=%F0%9F%94%8C+Designing+circuits+that+power+the+future...;%F0%9F%94%AC+VLSI+%7C+SoC+%7C+Digital+System+Design;%F0%9F%9B%B0%EF%B8%8F+ESP32+%7C+Arduino+%7C+STM32+%7C+IoT+Systems;%F0%9F%93%A1+Antenna+Design+%7C+RF+%7C+Microstrip+Patch;%E2%98%81%EF%B8%8F+AWS+Cloud+%7C+Serverless+%7C+IoT+Integration;%F0%9F%9A%80+Open+to+VLSI+%2F+Embedded+%2F+Semiconductor+Roles)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kirthanars&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/kirthanars)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirthanars)
-[![Gmail](https://img.shields.io/badge/Gmail-kirthanars5599%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kirthanars5599@gmail.com)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-R.S.%20Kirthana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirthanars)
+[![Gmail](https://img.shields.io/badge/Gmail-kirthanars5599%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirthanars5599@gmail.com)
+[![Location](https://img.shields.io/badge/Tamil%20Nadu%2C%20India-%F0%9F%87%AE%F0%9F%87%B3-38BDAE?style=for-the-badge)](https://github.com/kirthanars)
+[![Profile Views](https://komarev.com/ghpvc/?username=kirthanars&label=Profile+Views&color=bf91f3&style=for-the-badge)](https://github.com/kirthanars)
 
 </div>
 
+<br/>
+
 ---
 
-## 👩‍💻 About Me
+## ⚡ About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```c
-#include <engineer.h>
+<br/>
 
-struct Engineer kirthana = {
-    .name           = "R.S. Kirthana",
-    .location       = "Tamil Nadu, India 🇮🇳",
-    .degree         = "B.E. - Electronics & Communication Engineering",
-    .college        = "K. Ramakrishnan College of Engineering",
-    .cgpa           = 7.61,
+```systemverilog
+// kirthana_profile.sv  ──  Who Am I?
+module Kirthana #(
+  parameter NAME     = "R.S. Kirthana",
+  parameter LOCATION = "Tamil Nadu, India 🇮🇳",
+  parameter DEGREE   = "B.E. ECE @ K. Ramakrishnan College of Engineering"
+)(
+  input  wire  passion,
+  output logic innovation
+);
+  // ── Core Interests ─────────────────────────────────
+  string focus[] = '{"VLSI & SoC Design",
+                      "Embedded Systems & IoT",
+                      "RF & Antenna Engineering",
+                      "AWS Cloud Solutions"};
 
-    .stack          = {"C", "Java", "SystemVerilog", "VHDL",
-                       "ESP32", "ESP8266", "Arduino", "STM32",
-                       "KiCad", "Proteus", "Xilinx", "AWS"},
+  // ── Fun Facts ──────────────────────────────────────
+  // 📡  Designed antenna @ 5.904 GHz & 6.036 GHz
+  // 🏎️  Powertrain Engineer — TN45 Motorsports (IKR 2024)
+  // ☣️  Built life-saving gas detection for sewage workers
+  
+  string motto = "Design it. Simulate it. Build it. Ship it. 🚀";
 
-    .currentlyLearning = {"VLSI Physical Design",
-                          "SoC Implementation",
-                          "ARM Cortex-M (STM32)",
-                          "AWS Cloud Services"},
+  always_ff @(posedge passion)
+    innovation <= #1 1'b1;   // always ON
 
-    .funFact        = "I once built a kart before building a circuit! 🏎️",
-};
-
-const char* motto() {
-    return "Design. Simulate. Innovate. 🔌";
-}
+endmodule
 ```
 
 <br clear="right"/>
 
 ---
 
+## 🧬 Recruiter Snapshot
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                     🔍  OPEN TO OPPORTUNITIES                           ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  🎯 Target Roles  │ VLSI Engineer · Embedded Systems · IoT · Semiconductor
+║  🗂️ Domain Focus  │ RTL Design · SoC · PCB · Firmware · RF & Antenna
+║  🛠️ Core Skills   │ SystemVerilog · VHDL · C · ESP32 · STM32 · KiCad · AWS
+║  📍 Location      │ Tamil Nadu, India  (Open to Relocation)
+║  📧 Contact       │ kirthanars5599@gmail.com
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6F00?style=flat-square&logo=verilog&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-4B0082?style=flat-square&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Hardware & Embedded**
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Sensors-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Antenna Design](https://img.shields.io/badge/Antenna%20Design-607D8B?style=flat-square&logoColor=white)
-
-**EDA & Software Tools**
-
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00878A?style=flat-square&logo=arduino&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1565C0?style=flat-square&logoColor=white)
-![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=flat-square&logo=amd&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Amazon Lex](https://img.shields.io/badge/Amazon%20Lex-232F3E?style=flat-square&logo=amazonalexa&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<a href="https://github.com/kirthanars">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kirthanars&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/kirthanars">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirthanars&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+**Programming Languages**
 
-</div>
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6F00?style=for-the-badge&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
+**Embedded & IoT Hardware**
 
-## 🔥 Streak Stats
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32%20ARM-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Sensors](https://img.shields.io/badge/Sensors%20%26%20RFID-607D8B?style=for-the-badge&logoColor=white)
+![Antenna](https://img.shields.io/badge/Antenna%20%26%20RF%20Design-455A64?style=for-the-badge&logoColor=white)
 
-<div align="center">
+**EDA & VLSI Tools**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kirthanars&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Xilinx](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logo=amd&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1565C0?style=for-the-badge&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00878A?style=for-the-badge&logo=arduino&logoColor=white)
 
-</div>
+**Cloud : AWS**
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Kirthana's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kirthanars&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/kirthanars)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Amazon Lex](https://img.shields.io/badge/Amazon%20Lex-232F3E?style=for-the-badge&logo=amazonalexa&logoColor=white)
 
 </div>
 
@@ -128,64 +125,70 @@ const char* motto() {
 
 ---
 
-## 💼 Internships & Training
-
-<details>
-<summary>🏭 <strong>NLC India Limited</strong> — Intern | Telecom Division</summary>
-
-> `Telecom Network Switching` `Communication Infrastructure` `Industrial Systems`
-
-- Completed internship focused on **Telecom Network Switching Systems** and communication infrastructure
-- Gained hands-on exposure to large-scale industrial telecom setups and network architecture
-
-</details>
-
-<details>
-<summary>☁️ <strong>Wipro</strong> — Cloud Computing Training</summary>
-
-> `AWS` `Cloud Architecture` `Cloud Services`
-
-- Completed industry training in **Cloud Computing and cloud service architecture**
-- Applied concepts to hands-on AWS projects including S3 hosting and serverless chatbot development
-
-</details>
-
-<details>
-<summary>⚡ <strong>Edutantr</strong> — VLSI Design Training</summary>
-
-> `VLSI` `Digital Circuits` `SystemVerilog` `VHDL`
-
-- Trained in **VLSI design fundamentals** and digital circuit design
-- Learned hardware description using SystemVerilog and VHDL for synthesis and simulation
-
-</details>
-
-<details>
-<summary>🖨️ <strong>Internshala</strong> — PCB Design Training</summary>
-
-> `KiCad` `PCB Layout` `Schematic Design`
-
-- Trained in **PCB schematic design and PCB layout development**
-- Learned component placement, routing techniques, and fabrication concepts using KiCad
-
-</details>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| [📡 Dual Band Microstrip Patch Antenna](https://github.com/kirthanars) | KiCad · FR4 Substrate · RF Design | Designed antenna operating at **5.904 GHz & 6.036 GHz**; suitable for Wi-Fi & wireless comms |
-| [☣️ Toxic Gas Detection System](https://github.com/kirthanars) | ESP32 · MQ-2 · MQ-6 · MQ-135 | Real-time safety alerts for sewage workers using **3 gas sensors** |
-| [🏨 Hotel Booking Chatbot](https://github.com/kirthanars) | Amazon Lex · AWS Lambda · DynamoDB · RDS · API Gateway | Serverless chatbot for **room booking & real-time availability** on AWS |
-| [📋 RFID Attendance System](https://github.com/kirthanars) | ESP8266 · RFID · Wi-Fi | IoT-based **automated attendance recording & transmission** |
-| [🌧️ Smart Window System](https://github.com/kirthanars) | ESP32 · Temperature Sensor · Light Sensor | Automated blinds & fan control based on **sunlight & temperature** |
-| [🩸 Blood Donation Management System](https://github.com/kirthanars) | SQL · Database Design | Full DB system with donor records, appointments, and **inventory tracking** |
+| # | Project | Domain | Stack | Highlights |
+|---|---------|--------|-------|------------|
+| 📡 | **Dual Band Microstrip Patch Antenna** | RF & Antenna | KiCad · FR4 · RF | Operates at **5.904 GHz & 6.036 GHz** — Wi-Fi & wireless communication ready |
+| ☣️ | **Smart Toxic Gas Detection System** | Embedded / IoT | ESP32 · MQ-2 · MQ-6 · MQ-135 | Real-time hazard alerts using **3 gas sensors** for sewage worker safety |
+| 🏨 | **Hotel Booking Chatbot** | Cloud / Serverless | Amazon Lex · Lambda · DynamoDB · API Gateway | Fully serverless AWS chatbot for **live room booking** |
+| 📋 | **Smart RFID Attendance System** | IoT | ESP8266 · RFID · Wi-Fi | Automatic Wi-Fi-based **attendance recording & transmission** |
+| 🌤️ | **Smart Window System** | Embedded | ESP32 · Temp Sensor · LDR | Auto blinds & fan control via **sunlight & temperature sensing** |
+| 🩸 | **Blood Donation Management System** | Software / DB | SQL | Donor records, scheduling & **inventory management** system |
+| ☁️ | **AWS College Admission Form** | Cloud | AWS S3 | Static web hosting with **S3 bucket config & deployment** |
+| 🌦️ | **Weather Forecasting System** | Software | Java · Weather API | Real-time weather retrieval using **REST APIs in Java** |
 
 </div>
+
+---
+
+## 💼 Internships & Training
+
+<details>
+<summary>🏭 &nbsp; <strong>NLC India Limited</strong> — Internship &nbsp;|&nbsp; Telecom Division</summary>
+<br/>
+
+> `Telecom Network Switching` &nbsp; `Communication Infrastructure` &nbsp; `Industrial Systems`
+
+- Gained hands-on exposure to **Telecom Network Switching Systems** at a major PSU
+- Understood large-scale **communication infrastructure** and network architecture
+
+</details>
+
+<details>
+<summary>☁️ &nbsp; <strong>Wipro</strong> — Cloud Computing Training</summary>
+<br/>
+
+> `AWS` &nbsp; `Cloud Architecture` &nbsp; `Serverless` &nbsp; `Cloud Services`
+
+- Industry training in **Cloud Computing and cloud service architecture**
+- Applied concepts in real AWS projects — S3 web hosting, Lambda, and chatbot deployment
+
+</details>
+
+<details>
+<summary>⚡ &nbsp; <strong>Edutantr</strong> — VLSI Design Training</summary>
+<br/>
+
+> `VLSI` &nbsp; `SystemVerilog` &nbsp; `VHDL` &nbsp; `Digital Circuit Design`
+
+- Trained in **VLSI design fundamentals** and digital system design flow
+- Hands-on with **HDL simulation** using SystemVerilog and VHDL for synthesis
+
+</details>
+
+<details>
+<summary>🖨️ &nbsp; <strong>Internshala</strong> — PCB Design Training</summary>
+<br/>
+
+> `KiCad` &nbsp; `PCB Layout` &nbsp; `Schematic Design` &nbsp; `Fabrication`
+
+- Trained in **schematic design and PCB layout development** using KiCad
+- Learned component placement, DRC, routing techniques, and fabrication concepts
+
+</details>
 
 ---
 
@@ -193,12 +196,13 @@ const char* motto() {
 
 <div align="center">
 
-| 🎖️ | Achievement | Details |
-|----|-------------|---------|
-| 🏎️ | **Indian Karting Race (IKR) 2024** | National Level — Powertrain team member of **TN45 Motorsports**; drivetrain design & kart performance testing |
-| 🏁 | **Go Kart Design Challenge (GKDC)** | National Level — Participated in **12th GKDC** at Kari Motor Speedway; chassis integration & motorsports engineering |
-| ☁️ | **AWS Foundational Certification** | Cloud Computing — Completed AWS foundational training with Wipro |
-| 🔬 | **Qualcomm Sponsored SoC Workshop** | SoC Physical Implementation — Floorplanning, placement, routing & timing optimization |
+| 🎖️ | Achievement | Category | Details |
+|----|-------------|----------|---------|
+| 🏎️ | **Indian Karting Race (IKR) 2024** | National Level | Powertrain team @ **TN45 Motorsports** — drivetrain design & kart performance testing |
+| 🏁 | **Go Kart Design Challenge (GKDC) — 12th Edition** | National Level | Competed at **Kari Motor Speedway** — chassis integration & motorsports engineering |
+| ☁️ | **AWS Foundational Training** | Cloud | Completed AWS cloud architecture training via **Wipro** |
+| 🤖 | **ARM Cortex-M (STM32) Embedded Design** | Embedded | Peripheral interfacing · STM32 programming · embedded system development |
+| 📶 | **Signal Processing for Real World Systems** | Workshop | DSP · Noise filtering · Waveform analysis |
 
 </div>
 
@@ -208,11 +212,11 @@ const char* motto() {
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| 🎓 B.E. – Electronics & Communication Engineering | K. Ramakrishnan College of Engineering (Autonomous) | 2023 – Present | CGPA: **7.61 / 10** |
-| 📘 Higher Secondary – XII | Jawahar Matriculation Higher Secondary School | 2022 – 2023 | **79.33%** |
-| 📗 SSLC – X | Jawahar Matriculation Higher Secondary School | 2020 – 2021 | Passed |
+| 🎓 Degree | 🏫 Institution | 📅 Year | 📊 Score |
+|-----------|---------------|---------|---------|
+| B.E. – Electronics & Communication Engineering | K. Ramakrishnan College of Engineering *(Autonomous)* | 2023 – Present | **CGPA: 7.61 / 10** |
+| Higher Secondary – XII | Jawahar Matriculation Higher Secondary School | 2022 – 2023 | **79.33%** |
+| SSLC – X | Jawahar Matriculation Higher Secondary School | 2020 – 2021 | **Passed** |
 
 </div>
 
@@ -220,13 +224,26 @@ const char* motto() {
 
 ## 🧠 Currently Learning
 
-```
-🔲 VLSI Design       → SoC Physical Implementation, Timing Analysis, Floorplanning
-⚡ Embedded Systems  → ARM Cortex-M (STM32), Peripheral Interfacing, RTOS
-☁️  Cloud (AWS)      → Lambda, API Gateway, DynamoDB, RDS, Lex
-🛠️  HDL Design       → SystemVerilog, Functional Verification, Simulation
-📡 Signal Processing → Waveform Analysis, Noise Filtering, DSP Techniques
-🖨️  PCB Design       → KiCad, Component Placement, Routing, Fabrication
+```verilog
+// kirthana_learning_roadmap.sv
+
+module CurrentFocus (
+  input  wire  curiosity,
+  output logic expertise
+);
+
+  always_ff @(posedge curiosity) begin
+    expertise <= #1 (
+      "🔲 VLSI Physical Design   → SoC Floorplanning, Placement, Routing, STA" ,
+      "⚡ Embedded Systems       → ARM Cortex-M, STM32, RTOS, Peripheral Interfacing" ,
+      "☁️  AWS Cloud              → Lambda, API Gateway, DynamoDB, Lex, RDS" ,
+      "📐 HDL Verification       → SystemVerilog, UVM Basics, Functional Simulation" ,
+      "📡 Signal Processing      → DSP, Noise Filtering, Waveform Analysis" ,
+      "🖨️  Advanced PCB Design    → High-Speed Layout, Impedance Matching, DFM"
+    );
+  end
+
+endmodule
 ```
 
 ---
@@ -235,15 +252,22 @@ const char* motto() {
 
 <div align="center">
 
-| Language | Proficiency |
-|----------|-------------|
-| 🇮🇳 Tamil | Native |
-| 🇬🇧 English | Fluent |
-| 🇩🇪 German | Learning 📖 |
+| 🌐 Language | 💬 Proficiency | 
+|-------------|---------------|
+| 🇮🇳 Tamil | Native Speaker | 
+| 🇬🇧 English | Professional Fluency | 
+| 🇩🇪 German | Currently Learning 📖 | 
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<div align="center">
 
+*"Circuits don't lie — they either work or they teach you something."* 💡
+
+⭐ *If my work helped or inspired you, consider giving a star!* ⭐
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:bf91f3,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
