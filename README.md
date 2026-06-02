@@ -1,4 +1,4 @@
-# (Paste this entire README into your profile repository)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=3,12,14,16&text=R.S.%20KIRTHANA&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.E.%20ECE%20|%20VLSI%20Design%20|%20Verilog%20|%20Semiconductor%20Technology%20|%20Embedded%20Systems&descAlignY=62&descSize=18" width="100%"/>
 
