@@ -1,179 +1,144 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+R.S.+Kirthana;Electronics+%26+Communication+Engineer;Firmware+Developer;Embedded+Systems+%7C+VLSI+Design;Building+Smart+Systems+for+the+Future" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,24,30&text=R.S.%20KIRTHANA&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Firmware%20Engineer%20%7C%20Embedded%20Systems%20%7C%20VLSI%20Design%20%7C%20IoT%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
-<h1 align="center">🚀 R.S. Kirthana</h1>
+<div align="center">
 
-<h3 align="center">
-Firmware Engineer • Embedded Systems • VLSI Design • IoT Developer
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+R.S.+Kirthana;Electronics+%26+Communication+Engineer;Firmware+Developer+%7C+Embedded+Systems;VLSI+Design+%7C+Digital+Electronics;ESP32+%7C+SystemVerilog+%7C+AWS;Building+Technology+for+Real-World+Impact+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kirthanars">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:kirthanars5599@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+### 🎯 Aspiring Firmware Engineer | Embedded Systems Developer | VLSI Enthusiast
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kirthana0911&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+*Designing intelligent systems through hardware, firmware, and innovation.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-R.S.%20Kirthana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirthanars)
+[![Gmail](https://img.shields.io/badge/Gmail-kirthanars5599%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirthanars5599@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=kirthana0911&label=Profile+Views&color=70A5FD&style=for-the-badge)](https://github.com/kirthana0911)
+
+</div>
 
 ---
 
-# 👩‍💻 About Me
+# ⚡ About Me
 
-🎓 B.E. Electronics and Communication Engineering
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f8-9858-0e94ee8f95f.gif"/>
 
-🏫 K. Ramakrishnan College of Engineering
+```systemverilog
+// profile.sv
 
-📍 Tamil Nadu, India
+module Kirthana;
 
-💡 Passionate about:
+string name = "R.S. Kirthana";
 
-- Embedded Systems
-- Firmware Development
-- VLSI Design
-- Digital Electronics
-- PCB Design
-- IoT Systems
-- Semiconductor Technology
+string role = "Firmware Engineer & VLSI Enthusiast";
 
-🌱 Currently Learning:
+string education =
+"K. Ramakrishnan College of Engineering";
 
-- SystemVerilog
-- RTL Design
-- FPGA Development
-- Embedded Firmware Development
-- Semiconductor Design Flow
+string interests[] = '{
+"Embedded Systems",
+"Firmware Development",
+"VLSI Design",
+"IoT Systems",
+"Digital Electronics",
+"Antenna Engineering",
+"PCB Design",
+"AWS Cloud"
+};
 
----
+string motto =
+"Design it. Simulate it. Build it. Deploy it.";
 
-# 🎯 Engineering Interests
+endmodule
+```
 
-🔹 Embedded Systems
+### 🚀 Quick Facts
 
-🔹 Firmware Development
-
-🔹 VLSI Design
-
-🔹 Digital Electronics
-
-🔹 Semiconductor Technology
-
-🔹 PCB Design
-
-🔹 Wireless Communication
-
-🔹 Internet of Things (IoT)
+- 🎓 B.E. Electronics & Communication Engineering
+- 🔬 Exploring VLSI, RTL Design & Semiconductor Technology
+- ⚡ Building Embedded & IoT Systems using ESP32
+- ☁️ AWS Cloud Practitioner
+- 📡 Antenna Design Enthusiast
+- 🏎️ TN45 Motorsports — IKR Powertrain Team Member
+- 🇩🇪 Learning German
 
 ---
 
-# ⚡ Tech Stack
+# 🔍 Recruiter Snapshot
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,java"/>
-</p>
-
-### Hardware & Embedded
-
-<p>
-<img src="https://img.shields.io/badge/ESP32-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESP8266-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-</p>
-
-### VLSI & Design Tools
-
-<p>
-<img src="https://img.shields.io/badge/SystemVerilog-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VHDL-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Xilinx-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KiCad-green?style=for-the-badge"/>
-</p>
-
-### Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws"/>
-</p>
+```text
+╔══════════════════════════════════════════════════════════╗
+║                    OPEN TO OPPORTUNITIES                ║
+╠══════════════════════════════════════════════════════════╣
+║ Target Roles : Firmware Engineer                        ║
+║                Embedded Systems Engineer                ║
+║                VLSI Design Engineer                     ║
+║                Semiconductor Industry Roles            ║
+║                                                        ║
+║ Skills       : SystemVerilog, VHDL, C, Java           ║
+║                ESP32, Arduino, KiCad, AWS             ║
+║                                                        ║
+║ Location     : Tamil Nadu, India                      ║
+║ Relocation   : Available                              ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 ---
 
-# 📚 2026 Learning Roadmap
+# 🛠️ Tech Stack
 
-✅ C Programming
+## Programming
 
-✅ Arduino Development
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6F00?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge)
 
-✅ AWS Cloud Practitioner
+## Embedded & IoT
 
-✅ PCB Design
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
-🔄 SystemVerilog
+## EDA & Design
 
-🔄 Digital Design
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge&logo=amd&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1565C0?style=for-the-badge)
 
-🔄 RTL Coding
+## Cloud
 
-🔄 FPGA Development
-
-🎯 ASIC Design Flow
-
-🎯 Embedded Linux
-
-🎯 Advanced Firmware Development
-
----
-
-# 🔥 Featured Projects
-
-## 🚨 Smart Early Warning Toxic Gas Detection System
-
-- ESP32 Based Safety Monitoring System
-- MQ-2, MQ-6, MQ-135 Sensors
-- Real-Time Gas Detection
-- Automatic Alerts & Safety Protection
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
 
-## 📡 Dual Band Microstrip Patch Antenna
+# 🚀 Featured Projects
 
-- Operating Frequencies:
-  - 5.904 GHz
-  - 6.036 GHz
-- CST Simulation
-- Wireless Communication Applications
-
----
-
-## 📲 Smart RFID Attendance System
-
-- ESP8266 Based IoT Solution
-- RFID Authentication
-- Real-Time Attendance Monitoring
+| Project | Technology |
+|----------|------------|
+| ☣️ Smart Toxic Gas Detection System | ESP32, MQ Sensors, IoT |
+| 📡 Dual Band Microstrip Patch Antenna | CST, RF Design |
+| 📋 RFID Attendance System | ESP8266, RFID |
+| 🪟 Smart Window System | Arduino, Sensors |
+| ☁️ Hotel Booking Chatbot | AWS Lex, Lambda |
+| 🩸 Blood Donation Management System | SQL |
+| 🌤️ Weather Forecasting System | Java APIs |
 
 ---
 
-## 🪟 Smart Window Automation System
+# 📊 GitHub Analytics
 
-- Electrochromic Film Control
-- Automated Fan Operation
-- Temperature-Based Smart Control
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kirthana0911&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## ☁️ AWS Hotel Booking Chatbot
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirthana0911&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- Amazon Lex
-- AWS Lambda
-- DynamoDB
-- API Gateway
-- Cloud-Based Booking Assistant
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kirthana0911&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -181,93 +146,26 @@ Firmware Engineer • Embedded Systems • VLSI Design • IoT Developer
 
 🏎️ Indian Karting Race (IKR) 2024
 
-Powertrain Team Member – TN45 Motorsports
-
 🏁 Go Kart Design Challenge (GKDC)
-
-Vehicle Design & Chassis Integration
 
 ☁️ AWS Cloud Practitioner
 
-📡 Participated in Multiple Technical Workshops
+📡 Qualcomm Sponsored SoC Physical Design Workshop
 
-- SystemVerilog
-- SoC Physical Implementation
-- STM32 Embedded Systems
-- PCB Design
-- Industrial Automation
-- Signal Processing
+🔬 Multiple Embedded, PCB & SystemVerilog Workshops
 
 ---
 
-# 💼 Open To
+# 🌱 Currently Learning
 
-✔ Firmware Engineer Internships
-
-✔ Embedded Systems Internships
-
-✔ VLSI Design Opportunities
-
-✔ Semiconductor Industry Roles
-
-✔ Research Collaborations
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kirthana0911&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirthana0911&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kirthana0911&theme=tokyonight"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kirthana0911&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kirthana0911&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# 📋 GitHub Profile Summary
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirthana0911&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 💭 Daily Motivation
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+```text
+🔲 RTL Design & Verification
+⚡ STM32 Embedded Development
+☁️ Advanced AWS Services
+📡 RF & Antenna Engineering
+🖨️ Advanced PCB Design
+🚀 Semiconductor Design Flow
+```
 
 ---
 
@@ -285,14 +183,12 @@ Vehicle Design & Chassis Integration
 
 </p>
 
----
-
 <div align="center">
 
-## ⚡ Building Intelligent Systems Through Embedded Innovation
+### 💡 "Turning ideas into hardware, firmware, and real-world solutions."
 
-### "Turning ideas into hardware, firmware, and real-world solutions."
-
-🚀 Embedded Systems • Firmware • VLSI • IoT • Semiconductor Technology
+⭐ Thanks for visiting my profile ⭐
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,24,30&section=footer" width="100%"/>
