@@ -26,12 +26,7 @@
 
 > `VLSI Design` `Digital Circuits` `Verilog` `Semiconductor Technology`
 
-- Passionate about **VLSI Design, Digital Electronics and Semiconductor Technology**
-- Interested in **RTL Design, Digital System Design and Hardware Development**
-- Building practical experience through **Embedded Systems and IoT Projects**
-- Exploring modern semiconductor technologies and electronic systems
 
----
 
 # 🛠️ Technical Skills
 
@@ -86,30 +81,20 @@
 
 > `Telecom Network Switching` `Communication Infrastructure` `Industrial Systems`
 
-- Completed internship focused on **Telecom Network Switching Systems**
-- Learned communication infrastructure and switching technologies
-- Gained exposure to industrial telecom operations and network architecture
-
 ### ⚡ Edutantr — VLSI Design Training
 
 > `VLSI` `Digital Circuits` `Verilog` `VHDL`
 
-- Trained in **VLSI design fundamentals** and digital circuit design
-- Learned hardware description using Verilog and VHDL for synthesis and simulation
 
 ### ☁️ Wipro — Cloud Computing Training
 
 > `AWS` `Cloud Architecture` `Cloud Services`
 
-- Learned cloud computing fundamentals and AWS services
-- Applied concepts through practical cloud projects
 
 ### 🖨️ Internshala — PCB Design Training
 
 > `KiCad` `PCB Layout` `Schematic Design`
 
-- Learned schematic design and PCB layout development
-- Practiced routing, placement and fabrication concepts
 
 ---
 
