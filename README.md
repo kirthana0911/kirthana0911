@@ -33,9 +33,7 @@
 ### Programming Languages
 
 ![C](https://img.shields.io/badge/C-6495ED?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-00BFFF?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-40E0D0?style=for-the-badge)
-![VHDL](https://img.shields.io/badge/VHDL-00FFFF?style=for-the-badge)
 
 ### Embedded Systems
 
@@ -48,7 +46,7 @@
 
 ![KiCad](https://img.shields.io/badge/KiCad-40E0D0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-00BFFF?style=for-the-badge)
-![Xilinx](https://img.shields.io/badge/Xilinx-6495ED?style=for-the-badge)
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx-6495ED?style=for-the-badge)
 
 ### Cloud Technologies
 
@@ -115,7 +113,6 @@
 |----------|-------------|------|------|
 | 🎓 B.E. Electronics & Communication Engineering | K. Ramakrishnan College of Engineering (Autonomous) | 2023 – Present | **CGPA: 7.61 / 10** |
 | 📘 Higher Secondary (XII) | Jawahar Matriculation Higher Secondary School | 2022 – 2023 | **79.33%** |
-| 📗 SSLC (X) | Jawahar Matriculation Higher Secondary School | 2020 – 2021 | Passed |
 
 ---
 
